@@ -11,7 +11,7 @@ function loguear() {
     }
 
 else{
-    alert("Sos intrusooo.");
+    alert("Eres intrusooo!!");
 }
 
 }
